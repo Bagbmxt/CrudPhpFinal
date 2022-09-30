@@ -1,0 +1,24 @@
+.btndel  {
+    font-size: 30px;
+   
+    color:red;
+    background-color: rgb(224, 213, 213);
+}
+.btnlupa {
+ color: blue;
+ font-size: 30px;
+ 
+}
+table, th, td {
+    border: 1px solid rgb(0, 0, 0);
+    
+    background-color: rgb(224, 213, 213);
+ }
+ .p{
+    color: green;
+ }
+
+#index {
+    background-color: rgb(202, 197, 197);
+}
+
